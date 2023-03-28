@@ -4,7 +4,6 @@ ignoredSettings:
   - chadcommit.openAiKey
   - commit-o-matic.apiKey
 resources:
-  - extensions
   - keybindings
   - settings
   - snippets

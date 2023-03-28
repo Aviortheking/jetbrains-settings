@@ -316,7 +316,7 @@
 		"commit-o-matic.apiKey"
 	],
 
-    "syncSettings.resources": ["extensions", "keybindings", "settings", "snippets", "uiState"],
+    "syncSettings.resources": ["keybindings", "settings", "snippets", "uiState"],
 	"syncSettings.keybindingsPerPlatform": true,
 	"vsix.sources": {
 		"opn": {
