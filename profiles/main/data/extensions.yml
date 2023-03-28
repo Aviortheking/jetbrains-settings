@@ -1,0 +1,6 @@
+disabled: []
+enabled:
+  - id: codestats.code-stats-vscode
+    uuid: null
+  - id: zokugun.vsix-manager
+    uuid: 8f6c06c3-6eb7-46c8-898b-72d3057ebf45

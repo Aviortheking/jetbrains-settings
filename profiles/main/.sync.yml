@@ -1,0 +1,11 @@
+keybindingsPerPlatform: true
+ignoredSettings:
+  - codestats.apikey
+  - chadcommit.openAiKey
+  - commit-o-matic.apiKey
+resources:
+  - extensions
+  - keybindings
+  - settings
+  - snippets
+  - uiState
