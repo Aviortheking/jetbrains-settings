@@ -210,7 +210,7 @@
 	"vscode-mysql.enableTelemetry": false,
 	"vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
 	"window.closeWhenEmpty": true,
-	"workbench.colorTheme": "Adwaita Dark & default syntax highlighting",
+	"workbench.colorTheme": "New Moon",
 	"workbench.editor.highlightModifiedTabs": true,
 	"workbench.enableExperiments": false,
 	"workbench.settings.enableNaturalLanguageSearch": false,
@@ -246,7 +246,7 @@
 	"discord.lowerDetailsIdling": "{empty}",
 	"security.workspace.trust.enabled": true,
 	"security.workspace.trust.emptyWindow": true,
-	"workbench.iconTheme": "vscode-icons",
+	"workbench.iconTheme": "vscode-icon-theme",
 	"[javascript]": {
 		"editor.defaultFormatter": "vscode.typescript-language-features"
 	},
@@ -307,7 +307,6 @@
 	"workbench.preferredDarkColorTheme": "Adwaita Dark",
 	"workbench.preferredLightColorTheme": "Adwaita Light",
 	"editor.renderLineHighlight": "gutter",
-	"workbench.productIconTheme": "adwaita",
 	"chadcommit.useEmoji": false,
 	"commit-o-matic.promptTemplate": "Generate commit message from following diff.\nMessage contain only one-line short summary.\nRespect the conventional commits format.\n```\n$$$DIFF$$$\n```",
 	"syncSettings.ignoredSettings": [
@@ -326,13 +325,13 @@
 		"ms": {
 			"type": "marketplace",
 			"serviceUrl": "https://marketplace.visualstudio.com/_apis/public/gallery",
-			"throttle": 5000
+			"throttle": 10000
 		}
 	},
+	"vsix.debug": true,
 	"vsix.extensions": [
 		"opn:alufers.commit-o-matic",
 		"ms:Compulim.compulim-vscode-closetag",
-		"ms:cssho.vscode-svgviewer",
 		"opn:dbaeumer.vscode-eslint",
 		"opn:EditorConfig.EditorConfig",
 		"opn:formulahendry.auto-rename-tag",
@@ -354,16 +353,15 @@
 		"ms:ms-vscode.remote-explorer",
 		"ms:ms-vsliveshare.vsliveshare",
 		"opn:naumovs.color-highlight",
-		"opn:piousdeer.adwaita-theme",
 		"ms:platformio.platformio-ide",
 		"opn:redhat.vscode-xml",
 		"opn:codestats.code-stats-vscode",
 		"opn:shd101wyy.markdown-preview-enhanced",
 		"ms:sysoev.language-stylus",
 		"ms:taniarascia.new-moon-vscode",
-		"opn:vscode-icons-team.vscode-icons",
+		"ms:vscode-icons-team.vscode-icons",
 		"opn:zokugun.cron-tasks",
 		"opn:zokugun.sync-settings"
-	]
-
+	],
+	"github.gitProtocol": "ssh",
 }
